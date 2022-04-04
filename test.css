@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+
+}
+
+    
+ 
+.main1{
+    width: 100vw;
+    height: 900px;
+    background-image: url(../nerolink/image/homepage1.jpg);
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+    
+
+
+}
+
